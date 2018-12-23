@@ -12,9 +12,10 @@ experience in R, Python, MySQL, Hadoop, SAS and Tableau.
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# EDUCATION
+## EXPERIENCE
+### PROJECTS
+#### INTERESTS
 
 - Bulleted
 - List
